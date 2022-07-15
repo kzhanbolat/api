@@ -1,9 +1,9 @@
 
 <h1> fastapi-final <h1>
 
-<h3> creat a working folder: <h3>
+<h3> creat a working folder:<h3>
 
-```mkdir ./apifin```
+<h6>```mkdir ./apifin```<h6>
 
 <h3> got o your folder:  <h3>
 
